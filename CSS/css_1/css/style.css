@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+.bg1 {
+    height: 50vh;
+    background-color: rgb(233, 206, 53);
+    
+  }
+  
+  #bg2 {
+    background-image: url('https://mdn.mozillademos.org/files/12005/starsolid.gif');
+    background-position: top right;
+    background-repeat: no-repeat;
+    color:blue;
+  }
+  
+  .bg3 {
+    background-image: url("https://mdn.mozillademos.org/files/12057/starsolid.gif");
+    background-attachment: fixed;
+  }
+  
+  #bg4 {
+    background-image: url('https://mdn.mozillademos.org/files/12005/starsolid.gif');
+    background-repeat: repeat-x;
+  }
